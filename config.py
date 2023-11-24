@@ -1,5 +1,5 @@
 class Config:
-    pass
+    SECRET_KEY= 'holaManola'
 
 class DevelopmentConfig:
     DEBUG=True

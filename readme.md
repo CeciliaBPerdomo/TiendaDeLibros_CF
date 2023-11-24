@@ -1,4 +1,4 @@
-# Python, Flask y JinJa2
+# Python, Flask, JinJa2 y Bootstrap
 
 ## Módulos: 
 #### Módulo 2: Estructura del proyecto
@@ -9,6 +9,14 @@
 - Clase 5: Creación de carpeta y estructura de plantillas
 - Clase 6: Integrando Bootstrap via CDN
 - Clase 7: Descarga e integración de Bootstrap
+
+#### Módulo 3: Trabajo con formularios
+- Clase 1: Formulario de inicio de sesión
+- Clase 2: Métodos HTTP aplicables
+- Clase 3: Lectura de valores enviados desde formularios
+- Clase 4: CSRF (Cross Site Request Forgery)
+- Clase 5: Validación de formularios HTML
+
 
 ## Comandos:
 #### Para inicializar el entorno virtual
@@ -22,6 +30,9 @@
 
 #### Para levantar el servidor: 
 - python .\app\app.py
+
+#### Para levantar el servidor (con manager): 
+- python manage.py runserver
 
 #### Para ver todos los módulos:
 - pip list
