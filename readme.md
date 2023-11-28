@@ -1,5 +1,14 @@
 # Python, Flask, JinJa2 y Bootstrap
 
+#### Flask:
+- https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/
+
+#### Jinja2:
+- https://jinja.palletsprojects.com/en/3.1.x/
+
+#### Flask WTF:
+- https://flask-wtf.readthedocs.io/en/1.2.x/
+
 ## Módulos: 
 #### Módulo 2: Estructura del proyecto
 - Clase 1: Estructura base del proyecto
@@ -17,6 +26,44 @@
 - Clase 4: CSRF (Cross Site Request Forgery)
 - Clase 5: Validación de formularios HTML
 
+<!-- #### Módulo 4: Integración con base de datos
+- Clase 1: Creación de BD con MariaDB
+- Clase 2: Relaciones foráneas
+- Clase 3: Inserción de registros en base de datos
+- Clase 4: Configuración de conexión en Flask
+- Clase 5: Prueba de conexión hacia BD
+- Clase 6: Creación de entidades y modelos
+
+#### Módulo 5: Gestión de sesiones
+- Clase 1: 
+- Clase 2: 
+- Clase 3: 
+- Clase 4: 
+- Clase 5: 
+- Clase 6: 
+- Clase 7: 
+- Clase 8: 
+- Clase 9: 
+
+#### Módulo 6: Operaciones con tablas
+- Clase 1: 
+- Clase 2: 
+- Clase 3: 
+- Clase 4: 
+- Clase 5: 
+- Clase 6: 
+- Clase 7: 
+- Clase 8: 
+- Clase 9: 
+
+#### Módulo 7: Envío de emails
+- Clase 1: 
+- Clase 2: 
+- Clase 3: 
+
+#### Módulo 8: Extra
+- Clase 1: 
+- Clase 2:  -->
 
 ## Comandos:
 #### Para inicializar el entorno virtual
@@ -36,5 +83,3 @@
 
 #### Para ver todos los módulos:
 - pip list
-
-
